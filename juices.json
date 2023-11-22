@@ -1,6 +1,7 @@
 {
   "name": "Conestoga Juice Store",
   "address": "299 Doon Valley Dr, Kitchener, ON N2G 4M4",
+  "phonenumber": "519-748-5220",
   "availableJuices": true,
   "availableFood": false,
   "juices": [
