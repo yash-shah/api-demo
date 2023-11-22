@@ -1,0 +1,20 @@
+{
+  "name": "Conestoga Book Store",
+  "address": "299 Doon Valley Dr, Kitchener, ON N2G 4M4",
+  "availableTexts": true,
+  "availableEtexts": false,
+  "books": [
+    {
+      "name": "You dont know JS",
+      "rate": "25.99"
+    },
+    {
+      "name": "Head First C#",
+      "rate": "49.99"
+    },
+    {
+      "name": "Java Black Book",
+      "rate": "19.49"
+    }
+  ]
+}

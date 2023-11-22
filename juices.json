@@ -1,0 +1,20 @@
+{
+  "name": "Conestoga Juice Store",
+  "address": "299 Doon Valley Dr, Kitchener, ON N2G 4M4",
+  "availableJuices": true,
+  "availableFood": false,
+  "juices": [
+    {
+      "name": "Mango Juice",
+      "rate": "2.99"
+    },
+    {
+      "name": "Berry Juice",
+      "rate": "1.99"
+    },
+    {
+      "name": "Apple Juice",
+      "rate": "1.49"
+    }
+  ]
+}
