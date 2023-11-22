@@ -1,6 +1,7 @@
 {
   "name": "Conestoga Book Store",
   "address": "299 Doon Valley Dr, Kitchener, ON N2G 4M4",
+  "phone": "519-729-0039",
   "availableTexts": true,
   "availableEtexts": false,
   "books": [
